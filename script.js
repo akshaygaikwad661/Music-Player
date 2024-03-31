@@ -257,3 +257,4 @@ function volume_change() {
 	volume_show.innerHTML = recent_volume.value;
 	mainAudio.volume = recent_volume.value / 100;
 }
+
